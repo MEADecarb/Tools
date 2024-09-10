@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: MEA Internal Tools
 title: Welcome
 tags: [tool, auto-attach, file-management, streamlit, crm, gis, training]
 ---
