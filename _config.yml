@@ -2,4 +2,4 @@ title: MEA Internal Tools
 description: A Github webpage to with links to various interal tools that can be used to maximize efficency.
 baseurl: "" # Leave blank for GitHub Pages
 url: "https://MEADecarb.github.io" # Your GitHub Pages URL
-theme: minima # You can choose different themes, this is the default one
+theme: Moonwalk # You can choose different themes, this is the default one
